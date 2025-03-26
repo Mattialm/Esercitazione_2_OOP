@@ -1,0 +1,6 @@
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/rational.dir
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/stack.dir
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/stack_template.dir
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/stack_template_better.dir
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/edit_cache.dir
+/home/appuser/Data/Esercitazione_2_OOP/1803/Debug/CMakeFiles/rebuild_cache.dir
