@@ -108,3 +108,19 @@ public:
 
         return os;
     };
+
+
+    /* Operations on the left defined to make *, + commutative */
+    template<typename R>
+    complex<R>
+    operator+(const R& r, const complex<R>& z)
+    {
+        return z + r;
+    };
+
+    template<typename R>
+    complex<R>
+    operator*(const R& r, const complex<R>& z)
+    {
+        return z * r;
+    };
