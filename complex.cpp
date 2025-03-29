@@ -17,6 +17,6 @@ int main() {
     cout << "Im part: " << z1.im() << endl;
     cout << "Conjugate: " << z1.conjugate() << endl;
     cout << "Multiplication between complexes: " << z1 << " * " << z2 << " = " << z3 << endl;
-    cout << "Multiplication between reals: " << r << " * " << z1 << " = " << r*z1 << endl;
+    cout << "Multiplication between real and complex: " << r << " * " << z1 << " = " << r*z1 << endl;
 
 }
